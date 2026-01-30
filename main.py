@@ -4,7 +4,7 @@ import streamlit as st
 # Page config MUST be the first Streamlit command
 # --------------------------------------------------
 st.set_page_config(
-    page_title="Mini App Hub",
+    page_title="My App's Hub",
     page_icon="🚀",
     layout="wide"
 )

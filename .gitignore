@@ -1,20 +1,26 @@
-# Python Virtual Environment
-venv/
-.venv/
-env/
-
-# Python Cache
+# Dependencies
+node_modules/
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Streamlit logs and local config
-.streamlit/
-static/
-
-# Environment variables
+*.pyc
 .env
+.env.local
+.env.production
 
-# OS specific files
+# Build
+dist/
+build/
+*.o
+*.exe
+
+# OS
 .DS_Store
 Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*

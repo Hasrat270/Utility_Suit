@@ -1,36 +1,40 @@
-# Utility Suite
+# Utility_Suit
 
-## Overview
-Utility Suite is a collection of efficient and versatile utilities designed to ease the development process and improve productivity. This README outlines the key features and functionalities included in the suite.
+> Developed by **Hasrat** | MERN Web Developer & Web App Penetration Tester
 
-## Features
-- **File Management**: Provide utilities for handling files and directories, including creation, deletion, and modification.
-- **Data Processing**: Includes tools for data cleaning, transformation, and analysis, supporting various data formats.
-- **Networking Tools**: Offer functionalities to handle API calls, server requests, and web scraping tasks.
-- **Text Utilities**: A range of functions for text manipulation, including formatting, searching, and parsing.
-- **Logging and Monitoring**: Implement logging utilities to track application behavior and performance.
+## 📌 About
 
-## Installation
-To install this utility suite, clone the repository:
+This project is part of my development journey as a MERN Web Developer and Web Application Penetration Tester.
+
+## 🛠️ Tech Stack
+
+- **Type:** Python
+- **Developer:** Hasrat270
+- **Focus:** Web Development & Security
+
+## 🚀 Getting Started
+
 ```bash
+# Clone the repository
 git clone https://github.com/Hasrat270/Utility_Suit.git
+
+# Navigate to project
+cd Utility_Suit
 ```
 
-## Usage
-Each utility is organized in their respective modules and can be called as needed. For example:
-```python
-from utils.file_management import create_file
+## 👨‍💻 About Me
 
-create_file('example.txt')
-```
+I'm Hasrat — a **MERN Web Developer** and **Web App Penetration Tester**.
 
-## Contributions
-Contributions are welcome! Please feel free to submit a pull request or report issues.
+- 🌐 Web Development: React, Node.js, Express, MongoDB
+- 🔐 Security: Web Application Penetration Testing, Bug Bounty
+- 📚 Currently: Expanding skills in both development and cybersecurity
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📫 Contact
 
----
+- **GitHub:** [Hasrat270](https://github.com/Hasrat270)
+- **Email:** hasrat3701@gmail.com
 
-*For more details, please refer to the documentation within the codebase.*  
-*Last updated: 2026-03-27 19:58:17 (UTC)*  
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
